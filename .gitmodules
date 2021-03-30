@@ -1,0 +1,3 @@
+[submodule "CrawlText"]
+	path = CrawlText
+	url = git@github.com:lemonmgy/CrawlText.git
